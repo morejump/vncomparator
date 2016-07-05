@@ -1,0 +1,45 @@
+D:\VnSentencesConparator\VnSentencesConparator\bin\Debug\VnSentencesConparator.exe
+D:\VnSentencesConparator\VnSentencesConparator\bin\Debug\MetroFramework.dll
+D:\VnSentencesConparator\VnSentencesConparator\bin\Debug\MetroFramework.Fonts.dll
+D:\VnSentencesConparator\VnSentencesConparator\bin\Debug\Resources\booking-loading.gif
+D:\VnSentencesConparator\VnSentencesConparator\bin\Debug\Resources\Windows8 loader.gif
+D:\VnSentencesConparator\VnSentencesConparator\bin\Debug\VnSentencesConparator.exe.config
+D:\VnSentencesConparator\VnSentencesConparator\bin\Debug\MetroFramework.Design.dll
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesComparator.csprojResolveAssemblyReference.cache
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesComparator.csproj.ResolveComReference.cache
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.Form1.resources
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.FrmMain.resources
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.FrmProgressDialog.resources
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.Properties.Resources.resources
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesComparator.csproj.GenerateResource.Cache
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.exe
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.pdb
+D:\VnSentencesConparator\VnSentencesConparator\bin\Debug\VnSentencesConparator.pdb
+C:\Users\Admin\Desktop\machine learning\VnSentencesConparator\VnSentencesConparator\bin\Debug\VnSentencesConparator.exe.config
+C:\Users\Admin\Desktop\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesComparator.csproj.ResolveComReference.cache
+C:\Users\Admin\Desktop\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.exe
+C:\Users\Admin\Desktop\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.pdb
+C:\Users\Admin\Desktop\machine learning\VnSentencesConparator\VnSentencesConparator\bin\Debug\Resources\booking-loading.gif
+C:\Users\Admin\Desktop\machine learning\VnSentencesConparator\VnSentencesConparator\bin\Debug\Resources\Windows8 loader.gif
+C:\Users\Admin\Desktop\machine learning\VnSentencesConparator\VnSentencesConparator\bin\Debug\VnSentencesConparator.exe
+C:\Users\Admin\Desktop\machine learning\VnSentencesConparator\VnSentencesConparator\bin\Debug\VnSentencesConparator.pdb
+C:\Users\Admin\Desktop\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesComparator.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.Form1.resources
+C:\Users\Admin\Desktop\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.FrmMain.resources
+C:\Users\Admin\Desktop\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.FrmProgressDialog.resources
+C:\Users\Admin\Desktop\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.Properties.Resources.resources
+C:\Users\Admin\Desktop\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesComparator.csproj.GenerateResource.Cache
+F:\Stuff\machine learning\VnSentencesConparator\VnSentencesConparator\bin\Debug\VnSentencesConparator.exe.config
+F:\Stuff\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesComparator.csproj.ResolveComReference.cache
+F:\Stuff\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.exe
+F:\Stuff\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.pdb
+F:\Stuff\machine learning\VnSentencesConparator\VnSentencesConparator\bin\Debug\Resources\booking-loading.gif
+F:\Stuff\machine learning\VnSentencesConparator\VnSentencesConparator\bin\Debug\Resources\Windows8 loader.gif
+F:\Stuff\machine learning\VnSentencesConparator\VnSentencesConparator\bin\Debug\VnSentencesConparator.exe
+F:\Stuff\machine learning\VnSentencesConparator\VnSentencesConparator\bin\Debug\VnSentencesConparator.pdb
+F:\Stuff\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesComparator.csprojResolveAssemblyReference.cache
+F:\Stuff\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.Form1.resources
+F:\Stuff\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.FrmMain.resources
+F:\Stuff\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.FrmProgressDialog.resources
+F:\Stuff\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.Properties.Resources.resources
+F:\Stuff\machine learning\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesComparator.csproj.GenerateResource.Cache

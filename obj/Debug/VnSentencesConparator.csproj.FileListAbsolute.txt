@@ -1,0 +1,24 @@
+D:\Project\C #\VnSentencesConparator\VnSentencesConparator\bin\Debug\VnSentencesConparator.exe.config
+D:\Project\C #\VnSentencesConparator\VnSentencesConparator\bin\Debug\VnSentencesConparator.exe
+D:\Project\C #\VnSentencesConparator\VnSentencesConparator\bin\Debug\VnSentencesConparator.pdb
+D:\Project\C #\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.csprojResolveAssemblyReference.cache
+D:\Project\C #\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.csproj.ResolveComReference.cache
+D:\Project\C #\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.Form1.resources
+D:\Project\C #\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.Properties.Resources.resources
+D:\Project\C #\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.csproj.GenerateResource.Cache
+D:\Project\C #\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.exe
+D:\Project\C #\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.pdb
+D:\VnSentencesConparator\VnSentencesConparator\bin\Debug\VnSentencesConparator.exe.config
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.csproj.ResolveComReference.cache
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.exe
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.pdb
+D:\VnSentencesConparator\VnSentencesConparator\bin\Debug\VnSentencesConparator.exe
+D:\VnSentencesConparator\VnSentencesConparator\bin\Debug\VnSentencesConparator.pdb
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.csprojResolveAssemblyReference.cache
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.Form1.resources
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.Properties.Resources.resources
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.csproj.GenerateResource.Cache
+D:\VnSentencesConparator\VnSentencesConparator\bin\Debug\MetroFramework.Design.dll
+D:\VnSentencesConparator\VnSentencesConparator\bin\Debug\MetroFramework.dll
+D:\VnSentencesConparator\VnSentencesConparator\bin\Debug\MetroFramework.Fonts.dll
+D:\VnSentencesConparator\VnSentencesConparator\obj\Debug\VnSentencesConparator.frmMain.resources
